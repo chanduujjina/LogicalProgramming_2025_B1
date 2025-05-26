@@ -1,6 +1,6 @@
 package com.demo.numberSeries;
 
-public class Demo1 {
+public class EvenOrOddDemo {
 	
 	public static void main(String[] args) {
 		
