@@ -4,7 +4,7 @@ public class Demo1 {
 	
 	public static void main(String[] args) {
 		
-		//find the evene number from  1 to n
+		//find the even number from  1 to n
 		
 		for (int i =1;i<=20;i++) {
 			

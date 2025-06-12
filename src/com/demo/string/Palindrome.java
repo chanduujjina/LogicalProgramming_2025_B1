@@ -4,7 +4,7 @@ public class Palindrome {
 	
 	public static void main(String[] args) {
 		
-		String name ="madama";
+		String name ="madam";
 		
 		System.out.println(name.length());
 		
